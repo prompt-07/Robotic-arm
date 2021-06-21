@@ -1,0 +1,91 @@
+Defn >>
+
+A robot arm has a mechanical structure that alters
+its form using a group of electric motors like 
+servo motors or hydraulic actuators.
+
+Roll-Pitch-Yaw
+
+The AIY Voice Kit from Google lets you build your own
+natural language processor and connect it to the
+Google Assistant or Cloud its simply Speech-to-Text
+service, allowing you to ask questions and
+issue voice  commands to your programs and is 
+powered by a Raspberry Pi.
+
+it is usually used to achive home/work smart asistant
+such as alexa/siri but here we have modified it to achieve 
+our goals to have speech to txt conversion.
+_____________________________________________
+
+Step 1: 
+Preparing servos we make sure all are placed 90deg 
+across the axis which dof is to be achieved
+connect the wheel to all servos except the gripper
+ 
+Step 2:
+Assemble the base and connect each motor to its respective 
+aluminium plate
+
+Step 3:
+Assemble the shoulder by connecting the shoulder servo 
+to the arm
+
+Step 4:
+Assemble the elbow and connect the elbow to the arm
+we assembled in Step 3.
+
+Step 5:
+Assembling the wrist the wrist has two movements—pitch and
+rotate and they require two servos and consequently two
+servo brackets
+
+Step 6:
+Assembling the gripper it contains a very simple movement—it
+opens and closes—so only one servo is necessary
+
+Step 7:
+Assembling the base you need to set the robot arm in
+a base made of wood, metal.
+_____________________________________________
+A>>
+voice bonet / voice hat
+micro usb cable with 5V/2Amp input
+speaker
+---------------------
+B>>
+microphone
+microphone board
+button harness
+
+SD card slot holds the image for the 
+special version of the Raspbian operating system 
+for the Raspberry Pi.
+
+Raspberry Pi to run our python script
+_____________________________________________
+
+Summary
+
+With rapid growth in Opensource
+one is left with plenty of options when building
+a project . As this robotic arm
+is cloud based and is closest clone to human arm
+therefore this model has an upper
+hand over other models.Previous versions
+tend to be non-existent in the mere future and
+therefore they may be just a part of ewaste.
+This model has a potential to meet present requirements
+and update uninterruptedly in order to achieve future goals.
+
+
+Foremost, we would like to express my deepest thanks to our
+project guide Prof. Rupali, for her endless guidance and 
+time her patience, encouragement, and immense knowledge 
+were key motivations throughout the project.
+______________________________________________________
+
+ How do robots eat salsa?
+with micro chips
+
+
